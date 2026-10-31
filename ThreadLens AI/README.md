@@ -284,3 +284,6 @@ Devices Count: 5
 - API keys (Gemini / Groq) are strictly stored server-side in `.env` and never exposed to the frontend.
 - Fallback templates guarantee 100% operational functionality without an external API key.
 - All seeded records and logs are synthetic for safe demonstration.
+
+
+
